@@ -19,6 +19,9 @@ Evaluated model performance using metrics such as accuracy, precision, recall, a
 Achieved promising results in predicting hotel reservation cancellations using SVM, kNN, and the stacking ensemble technique.
 Identified significant features contributing to cancellation prediction through feature importance analysis.
 Compared the performance of individual algorithms and the stacking ensemble method to determine the most effective approach.
+Among the models utilized KNN,SVC, and stacking where K-Nearest Neighbours (KNN) exhibits superior performance with an accuracy of
+78.08% In comparison, stacking achieves an accuracy of 77.90 %, while Support Vector Classsifier (SVC) lags behind with 73.90 %.
+This suggests that the KNN model is most effective for the dataset in terms of predictive accuracy.
 
 # Conclusion
 This project showcases the application of exploratory data analysis, data preprocessing, and machine learning techniques to predict hotel reservation cancellations. By accurately predicting cancellations, hotels can optimize their operations, manage inventory effectively, and enhance overall revenue management strategies.
